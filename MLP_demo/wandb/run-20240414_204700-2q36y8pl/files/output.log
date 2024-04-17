@@ -1,0 +1,138 @@
+device:  cpu
+iter: 10 loss: 2.3170013427734375, accy: 0.12
+iter: 20 loss: 2.2881760597229004, accy: 0.08
+iter: 30 loss: 2.226222038269043, accy: 0.24
+iter: 40 loss: 2.220890760421753, accy: 0.28
+iter: 50 loss: 2.194875717163086, accy: 0.32
+iter: 60 loss: 2.1584129333496094, accy: 0.34
+iter: 70 loss: 2.1352498531341553, accy: 0.26
+iter: 80 loss: 2.092801570892334, accy: 0.34
+iter: 90 loss: 2.1180028915405273, accy: 0.3
+iter: 100 loss: 2.088608741760254, accy: 0.32
+iter: 110 loss: 2.0365383625030518, accy: 0.34
+iter: 120 loss: 2.0657143592834473, accy: 0.3
+iter: 130 loss: 1.9823094606399536, accy: 0.32
+iter: 140 loss: 1.8730179071426392, accy: 0.44
+iter: 150 loss: 1.7896013259887695, accy: 0.52
+iter: 160 loss: 1.8708173036575317, accy: 0.38
+iter: 170 loss: 1.7143142223358154, accy: 0.58
+iter: 180 loss: 1.6825072765350342, accy: 0.58
+iter: 190 loss: 1.7550712823867798, accy: 0.5
+iter: 200 loss: 1.5552107095718384, accy: 0.54
+iter: 210 loss: 1.6017135381698608, accy: 0.48
+iter: 220 loss: 1.4935357570648193, accy: 0.58
+iter: 230 loss: 1.6571599245071411, accy: 0.46
+iter: 240 loss: 1.430849552154541, accy: 0.52
+iter: 250 loss: 1.3696712255477905, accy: 0.64
+iter: 260 loss: 1.4425488710403442, accy: 0.52
+iter: 270 loss: 1.4092316627502441, accy: 0.58
+iter: 280 loss: 1.3775712251663208, accy: 0.64
+iter: 290 loss: 1.3644107580184937, accy: 0.6
+iter: 300 loss: 1.1001094579696655, accy: 0.72
+iter: 310 loss: 1.2959448099136353, accy: 0.58
+iter: 320 loss: 1.2434018850326538, accy: 0.62
+iter: 330 loss: 1.2555104494094849, accy: 0.6
+iter: 340 loss: 1.2692151069641113, accy: 0.66
+iter: 350 loss: 1.190861701965332, accy: 0.64
+iter: 360 loss: 1.052474856376648, accy: 0.76
+iter: 370 loss: 1.1861528158187866, accy: 0.66
+iter: 380 loss: 1.1379441022872925, accy: 0.6
+iter: 390 loss: 1.265680193901062, accy: 0.62
+iter: 400 loss: 1.2666230201721191, accy: 0.52
+iter: 410 loss: 1.0028064250946045, accy: 0.72
+iter: 420 loss: 0.9132790565490723, accy: 0.8
+iter: 430 loss: 1.0318528413772583, accy: 0.6
+iter: 440 loss: 0.8954737186431885, accy: 0.76
+iter: 450 loss: 0.9027562737464905, accy: 0.74
+iter: 460 loss: 1.1987659931182861, accy: 0.6
+iter: 470 loss: 1.0916138887405396, accy: 0.66
+iter: 480 loss: 0.8421427011489868, accy: 0.78
+iter: 490 loss: 1.0332032442092896, accy: 0.72
+iter: 500 loss: 0.8754043579101562, accy: 0.72
+iter: 510 loss: 0.9813350439071655, accy: 0.68
+iter: 520 loss: 1.1304805278778076, accy: 0.68
+iter: 530 loss: 1.004136562347412, accy: 0.66
+iter: 540 loss: 0.8797351121902466, accy: 0.68
+iter: 550 loss: 0.8919036984443665, accy: 0.78
+iter: 560 loss: 0.9916362166404724, accy: 0.72
+iter: 570 loss: 0.7997178435325623, accy: 0.8
+iter: 580 loss: 0.8063337802886963, accy: 0.78
+iter: 590 loss: 0.7689670324325562, accy: 0.72
+iter: 600 loss: 0.8554531335830688, accy: 0.72
+iter: 610 loss: 0.9275989532470703, accy: 0.7
+iter: 620 loss: 1.0460996627807617, accy: 0.62
+iter: 630 loss: 0.8758768439292908, accy: 0.76
+iter: 640 loss: 1.052647352218628, accy: 0.74
+iter: 650 loss: 0.7859589457511902, accy: 0.86
+iter: 660 loss: 0.8089299201965332, accy: 0.76
+iter: 670 loss: 0.9590986371040344, accy: 0.7
+iter: 680 loss: 0.9595177173614502, accy: 0.6
+iter: 690 loss: 0.7979578375816345, accy: 0.78
+iter: 700 loss: 0.8358426690101624, accy: 0.74
+iter: 710 loss: 0.6801395416259766, accy: 0.74
+iter: 720 loss: 0.7537528872489929, accy: 0.72
+iter: 730 loss: 0.9522055983543396, accy: 0.62
+iter: 740 loss: 0.8244360089302063, accy: 0.72
+iter: 750 loss: 1.0476925373077393, accy: 0.64
+iter: 760 loss: 0.900745153427124, accy: 0.76
+iter: 770 loss: 0.9290199279785156, accy: 0.7
+iter: 780 loss: 0.9209103584289551, accy: 0.64
+iter: 790 loss: 1.0142261981964111, accy: 0.66
+iter: 800 loss: 0.6917593479156494, accy: 0.8
+iter: 810 loss: 0.9557429552078247, accy: 0.68
+iter: 820 loss: 0.8866624236106873, accy: 0.7
+iter: 830 loss: 0.9672415256500244, accy: 0.62
+iter: 840 loss: 0.9380798935890198, accy: 0.68
+iter: 850 loss: 0.9008482098579407, accy: 0.7
+iter: 860 loss: 0.8878675699234009, accy: 0.7
+iter: 870 loss: 1.0589617490768433, accy: 0.64
+iter: 880 loss: 0.9275744557380676, accy: 0.66
+iter: 890 loss: 0.7222078442573547, accy: 0.68
+iter: 900 loss: 0.9494895935058594, accy: 0.72
+iter: 910 loss: 0.7497624158859253, accy: 0.78
+iter: 920 loss: 0.9060195088386536, accy: 0.72
+iter: 930 loss: 0.7885497808456421, accy: 0.74
+iter: 940 loss: 0.9736853837966919, accy: 0.74
+iter: 950 loss: 0.6752327084541321, accy: 0.82
+iter: 960 loss: 0.7446281909942627, accy: 0.76
+iter: 970 loss: 0.939921498298645, accy: 0.7
+iter: 980 loss: 0.558372437953949, accy: 0.78
+iter: 990 loss: 0.6733420491218567, accy: 0.74
+iter: 1000 loss: 0.950447678565979, accy: 0.62
+iter: 1010 loss: 0.9117149114608765, accy: 0.68
+iter: 1020 loss: 0.9565007090568542, accy: 0.72
+iter: 1030 loss: 0.699180543422699, accy: 0.82
+iter: 1040 loss: 0.7276731729507446, accy: 0.8
+iter: 1050 loss: 0.6453182697296143, accy: 0.78
+iter: 1060 loss: 0.8259356617927551, accy: 0.72
+iter: 1070 loss: 0.7951278686523438, accy: 0.68
+iter: 1080 loss: 0.6977958679199219, accy: 0.7
+iter: 1090 loss: 0.5283719897270203, accy: 0.82
+iter: 1100 loss: 0.6179488301277161, accy: 0.8
+iter: 1110 loss: 0.8044242262840271, accy: 0.7
+iter: 1120 loss: 0.6133378744125366, accy: 0.82
+iter: 1130 loss: 0.8881887197494507, accy: 0.7
+iter: 1140 loss: 0.5825193524360657, accy: 0.8
+iter: 1150 loss: 0.6173356771469116, accy: 0.74
+iter: 1160 loss: 0.6633173227310181, accy: 0.86
+iter: 1170 loss: 0.6676082015037537, accy: 0.72
+iter: 1180 loss: 0.9416359066963196, accy: 0.72
+iter: 1190 loss: 0.7374681234359741, accy: 0.82
+iter: 1200 loss: 0.45275965332984924, accy: 0.88
+Traceback (most recent call last):
+  File "C:\Users\asull\AppData\Local\Temp\ipykernel_24764\3542986628.py", line 2, in <module>
+    main()
+  File "C:\Users\asull\AppData\Local\Temp\ipykernel_24764\1139263829.py", line 78, in main
+    _save_checkpoint(ckp_path, model, epoch, optimizer, iteration)
+  File "C:\Users\asull\AppData\Local\Temp\ipykernel_24764\3275346030.py", line 8, in _save_checkpoint
+    torch.save(checkpoint, ckp_path)
+  File "C:\ProgramData\anaconda3\Lib\site-packages\torch\serialization.py", line 628, in save
+    with _open_zipfile_writer(f) as opened_zipfile:
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\site-packages\torch\serialization.py", line 502, in _open_zipfile_writer
+    return container(name_or_buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anaconda3\Lib\site-packages\torch\serialization.py", line 473, in __init__
+    super().__init__(torch._C.PyTorchFileWriter(self.name))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Parent directory checkpoint does not exist.

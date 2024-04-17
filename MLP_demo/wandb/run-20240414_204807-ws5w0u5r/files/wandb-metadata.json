@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.5",
+    "heartbeatAt": "2024-04-15T00:48:11.520253",
+    "startedAt": "2024-04-15T00:48:07.821095",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "MLP_demo/MLP-demo_wandb.ipynb",
+    "codePathLocal": null,
+    "root": "C:/Users/asull/OneDrive/Documents",
+    "git": {
+        "remote": "https://github.com/angles88865/ExtentionStuff",
+        "commit": "5b25edfe3f150c3af8f30355b0cb3f20656ca225"
+    },
+    "email": "asully88865@gmail.com",
+    "host": "angles",
+    "username": "asull",
+    "executable": "C:\\ProgramData\\anaconda3\\python.exe",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2470.0,
+        "min": 0.0,
+        "max": 4001.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2470.0,
+            "min": 0.0,
+            "max": 4001.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 449.6331214904785,
+            "used": 135.8669319152832
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4060 Laptop GPU",
+            "memory_total": 8585740288
+        }
+    ],
+    "memory": {
+        "total": 15.214057922363281
+    }
+}

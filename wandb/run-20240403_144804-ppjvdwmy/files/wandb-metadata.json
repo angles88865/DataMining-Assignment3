@@ -1,0 +1,36 @@
+{
+    "os": "macOS-10.16-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2024-04-03T18:48:05.550952",
+    "startedAt": "2024-04-03T18:48:04.800414",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "MLP-demo_wandb.ipynb",
+    "root": "/Users/huajieshao/Dropbox/WM-courses-Research/CSCI436:536-Data-Mining-Undergrad/Demo-code/Pytorch-demo",
+    "host": "ip-128-239-116-78.v4.wm.edu",
+    "username": "huajieshao",
+    "executable": "/Users/huajieshao/opt/anaconda3/envs/torch-env/bin/python",
+    "cpu_count": 10,
+    "cpu_count_logical": 10,
+    "cpu_freq": {
+        "current": 2400,
+        "min": 2400,
+        "max": 2400
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2400,
+            "min": 2400,
+            "max": 2400
+        }
+    ],
+    "disk": {
+        "total": 926.3517189025879,
+        "used": 240.68277740478516
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
